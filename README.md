@@ -25,7 +25,4 @@ Built with a **fast, modern frontend stack**, this project focuses on simplicity
 - **API:** AI Photo Editing / Image Enhancement API
 - **Build Tool:** Vite
 
----
-
-## 📂 Project Structure
 
